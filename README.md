@@ -15,10 +15,14 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=evelez0101&layout=compact">
 
 ## Programming Languages
-[![My Programming Langauges](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Programming Langauges](https://skillicons.dev/icons?i=java,python,c,js,css,html)](https://skillicons.dev)
+
+[![Envoirnment](https://skillicons.dev/icons?i=vscodium,ubuntu,linux)](https://skillicons.dev)
+
+
 
  ## Technologies I Use
-[![Technologies](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=aws,docker,fastapi,flask,sklearn,supabase,jquery,selenium,tailwind,jenkins,git,github)](https://skillicons.dev)
  
  
 ## Current Works
