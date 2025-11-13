@@ -1,4 +1,33 @@
-## Hi there 👋
+
+## Hey, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+
+<h1>Welcome to my Github Page!</h1> 
+
+[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/haany-ali) 
+
+[![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com) 
+
+## Who am I?
+
+## :computer: Technologies I Love
+* Frontend and Backend Web Development
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=evelez0101&layout=compact">
+
+## Programming Languages
+[![My Programming Langauges](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
+ ## Technologies I Use
+[![Technologies](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+ 
+ 
+## Current Works
+ 
+ 
+## Other Stuff
+<!--
+![Evelio's github stats](https://github-readme-stats.vercel.app/api?username=evelez0101&show_icons=true&hide=[%22issues%22])
+-->
 
 <!--
 **evelez0101/evelez0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
