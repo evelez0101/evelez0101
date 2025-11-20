@@ -3,7 +3,7 @@
 
 <h1>Welcome to my Github Page!</h1> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/evelio-v-218147290/](https://www.linkedin.com/in/evelio-v-218147290/) 
+[![Linkedin Badge](https://img.shields.io/badge/-evelez0101?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evelio-v-218147290/](https://www.linkedin.com/in/evelio-v-218147290/) 
 
 [![Gmail Badge](https://img.shields.io/badge/-evelez0101@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evelez0101@gmail.com)](mailto:evelez0101@gmail.com) 
 
