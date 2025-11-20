@@ -36,9 +36,8 @@ I'm currently working on:
 
  
 ## Other Stuff
-<!--
 ![Evelio's github stats](https://github-readme-stats.vercel.app/api?username=evelez0101&show_icons=true&hide=[%22issues%22])
--->
+
 
 <!--
 **evelez0101/evelez0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
