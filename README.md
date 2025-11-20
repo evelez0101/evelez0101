@@ -5,13 +5,16 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-evelez0101-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evelio-v-218147290/)
 
-
 [![Gmail Badge](https://img.shields.io/badge/-evelez0101@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evelez0101@gmail.com)](mailto:evelez0101@gmail.com) 
 
 ## Who am I?
 
+
 ## :computer: Technologies I Love
 * Frontend and Backend Web Development
+* Artificial Intelligence
+* Machine learning
+* Large Language Models
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=evelez0101&layout=compact">
 
@@ -26,7 +29,11 @@
  
  
 ## Current Works
- 
+I'm currently working on:
+* Web Scraper + Full Stack Webapp 
+* Open source Python BitTorrent Client
+* Open source Machine Learning Model to predict the outcome of Basketball Games
+
  
 ## Other Stuff
 <!--
