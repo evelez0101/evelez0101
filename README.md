@@ -16,7 +16,7 @@
 * Large Language Models
 
 ## Programming Languages
-[![My Programming Langauges](https://skillicons.dev/icons?i=java,python,c,C++,js,css,html)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=java,python,c,cpp,js,css,html)](https://skillicons.dev)
 
 ## Programming Environment
 [![Envoirnment](https://skillicons.dev/icons?i=vscodium,ubuntu,linux)](https://skillicons.dev)
