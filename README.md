@@ -9,7 +9,6 @@
 
 ## Who am I?
 
-
 ## :computer: Technologies I Love
 * Frontend and Backend Web Development
 * Artificial Intelligence
@@ -19,7 +18,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=evelez0101&layout=compact">
 
 ## Programming Languages
-[![My Programming Langauges](https://skillicons.dev/icons?i=java,python,c,js,css,html)](https://skillicons.dev)
+[![My Programming Langauges](https://skillicons.dev/icons?i=java,python,c,c++,js,css,html)](https://skillicons.dev)
 
 ## Programming Environment
 [![Envoirnment](https://skillicons.dev/icons?i=vscodium,ubuntu,linux)](https://skillicons.dev)
