@@ -28,8 +28,8 @@
 ## Current Works
 I'm currently working on:
 * Web Scraper + Full Stack Webapp 
-* Open source Python BitTorrent Client
-* Open source Machine Learning Model to predict the outcome of Basketball Games
+* React Native Music Player App
+* Machine Learning Model to predict the outcome of Basketball Games
 
 <!--
 ## Other Stuff
